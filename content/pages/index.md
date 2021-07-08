@@ -10,7 +10,7 @@ sections:
       e autoconhecimento.
     actions:
       - label: Agende sua sessão
-        url: /contact
+        url: 'https://api.whatsapp.com/send?phone=5516981904876'
         style: primary
     image: /images/e2bcdaad-0482-4cc6-8ad5-54896f252103.jpg
     image_alt: A smiling woman
