@@ -4,8 +4,10 @@ sections:
   - type: hero_section
     title: Ligia Motta | Psicóloga Junguiana
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      Olá, sou psicóloga clínica com pós-graduação em Psicologia Analítica
+      Junguiana. Trabalho de maneira conjunta com o paciente, compreendendo suas
+      vivências, experiências e subjetividade, promovendo o autodesenvolvimento
+      e autoconhecimento.
     actions:
       - label: Contact Me
         url: /contact
