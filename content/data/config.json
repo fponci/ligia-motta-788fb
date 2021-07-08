@@ -5,7 +5,7 @@
     "style": "minimal",
     "palette": "gray",
     "mode": "light",
-    "base_font": "serif",
+    "base_font": "sans-serif",
     "header": {
         "title": "Personal",
         "logo": "/images/Tag-Azul-03.png",
