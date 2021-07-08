@@ -13,6 +13,7 @@ sections:
         url: 'https://api.whatsapp.com/send?phone=5516981904876'
         style: primary
         has_icon: false
+        new_window: true
     image: /images/e2bcdaad-0482-4cc6-8ad5-54896f252103.jpg
     image_alt: A smiling woman
     media_position: right
