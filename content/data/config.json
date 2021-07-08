@@ -4,7 +4,7 @@
     "layout_type": "boxed",
     "style": "minimal",
     "palette": "gray",
-    "mode": "dark",
+    "mode": "light",
     "base_font": "serif",
     "header": {
         "title": "Personal",
