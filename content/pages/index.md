@@ -133,12 +133,10 @@ sections:
     background_image_size: contain
     background_image_opacity: 12
   - type: form_section
-    content: >-
-      ## Let's talk
+    content: |
+      ## Entre em contato
 
-
-      If you would like more information about my services and pricing, please
-      contact me using the form below.
+      Quer saber mais como a psicoterapia pode te ajudar?
     content_align: left
     form_position: right
     form_width: fifty
