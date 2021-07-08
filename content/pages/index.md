@@ -12,7 +12,7 @@ sections:
       - label: Agende sua sessão
         url: /contact
         style: primary
-    image: /images/PHOTO-2021-07-06-13-48-52.jpg
+    image: /images/e2bcdaad-0482-4cc6-8ad5-54896f252103.jpg
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
