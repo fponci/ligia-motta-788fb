@@ -9,7 +9,7 @@ sections:
       vivências, experiências e subjetividade, promovendo o autodesenvolvimento
       e autoconhecimento.
     actions:
-      - label: Contact Me
+      - label: Agende sua sessão
         url: /contact
         style: primary
     image: /images/Unknown.jpg
