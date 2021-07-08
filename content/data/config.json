@@ -137,5 +137,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://ligia-motta-788fb.netlify.app"
+    "domain": "https://ligia-motta-788fb.netlify.app",
+    "favicon": "/images/Cartao-Azul-01.png"
 }
