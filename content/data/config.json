@@ -1,7 +1,7 @@
 {
     "title": "Ligia Motta | Psicóloga",
     "path_prefix": "/",
-    "layout_type": "boxed",
+    "layout_type": "full-width",
     "style": "classic",
     "palette": "red",
     "mode": "light",
