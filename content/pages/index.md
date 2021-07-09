@@ -149,7 +149,7 @@ sections:
       - input_type: text
         name: Nome
         label: Nome
-        default_value: Seu nome
+        default_value: Como voc
         is_required: true
       - input_type: email
         name: email
