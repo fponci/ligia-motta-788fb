@@ -158,7 +158,7 @@ sections:
         is_required: true
       - input_type: text
         name: lorem-ipsum
-        label: Celular/Whatsapp
+        label: Celular/Whatsapp (opcional)
         default_value: Seu celular com DDD
         options: []
         is_required: false
