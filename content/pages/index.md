@@ -142,13 +142,13 @@ sections:
       ## Entre em contato
 
 
-      Ficou com alguma dúvida? 
+      Ficou com alguma dúvida?
 
 
       Quer saber mais sobre como a psicoterapia pode te ajudar?
 
 
-      Me envie um e-mail preenchendo o formulário ou clique aqui embaixo para me
+      Envie um e-mail preenchendo o formulário ou clique aqui embaixo para me
       enviar um Whatsapp
     content_align: left
     form_position: right
