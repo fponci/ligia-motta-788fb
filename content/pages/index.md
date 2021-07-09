@@ -148,8 +148,8 @@ sections:
       Quer saber mais sobre como a psicoterapia pode te ajudar?
 
 
-      Envie um e-mail preenchendo o formulário ou clique aqui embaixo para falar
-      comigo pelo Whatsapp.
+      Envie um e-mail preenchendo o formulário ou [me chame no
+      Whatsapp](https://api.whatsapp.com/send?phone=5516981904876)
     content_align: left
     form_position: right
     form_width: fifty
