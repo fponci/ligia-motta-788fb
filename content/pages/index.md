@@ -158,7 +158,7 @@ sections:
         is_required: true
       - input_type: text
         name: lorem-ipsum
-        label: Celular
+        label: Celular/Whatsapp
         default_value: lorem-ipsum
         options: []
         is_required: false
