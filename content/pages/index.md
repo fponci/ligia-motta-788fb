@@ -26,6 +26,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
+    has_border: true
   - type: features_section
     title: Sua terapia começa aqui
     features:
