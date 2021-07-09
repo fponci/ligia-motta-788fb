@@ -202,7 +202,10 @@ seo:
       value: Ligia Motta | Psicóloga
       keyName: property
     - name: 'og:description'
-      value: 'Olá, sou psicóloga clínica com pós graduação em Psicologia An'
+      value: >-
+        Pós graduada em Psicologia Analítica Junguiana, Psicoterapia de
+        adolescentes e adultos, situações de perdas e luto, Agende seu
+        atendimento online comigo.
       keyName: property
     - name: 'og:image'
       value: images/personal-preview.png
