@@ -37,7 +37,7 @@ sections:
           case studies and product descriptions. No job is too big or small!
         actions:
           - label: Entre em contato comigo
-            url: /faq
+            url: 'https://api.whatsapp.com/send?phone=5516981904876'
             style: primary
             has_icon: true
             icon: arrow-right
