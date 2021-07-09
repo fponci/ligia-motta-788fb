@@ -64,7 +64,7 @@ sections:
             new_window: true
         image: images/feature-2.svg
         image_alt: Feature 2 illustration
-        media_position: right
+        media_position: left
         media_width: sixty
       - title: Psicoterapia
         subtitle: Entenda um pouco mais como funciona
