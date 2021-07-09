@@ -154,7 +154,7 @@ sections:
       - input_type: email
         name: email
         label: Email
-        default_value: Your email address
+        default_value: Seu endereço de e-mail
         is_required: true
       - input_type: text
         name: lorem-ipsum
