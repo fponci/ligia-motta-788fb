@@ -159,7 +159,7 @@ sections:
       - input_type: text
         name: lorem-ipsum
         label: Celular/Whatsapp
-        default_value: lorem-ipsum
+        default_value: Seu celular
         options: []
         is_required: false
         type: form_field
