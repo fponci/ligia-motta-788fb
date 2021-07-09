@@ -168,12 +168,6 @@ sections:
         label: Mensagem
         default_value: Escreva aqui a sua mensagem
         is_required: true
-      - input_type: checkbox
-        name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
-        is_required: true
     submit_label: Send Message
     align_vert: top
     padding_top: medium
