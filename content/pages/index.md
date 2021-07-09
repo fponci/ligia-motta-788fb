@@ -138,10 +138,12 @@ sections:
     background_image_size: contain
     background_image_opacity: 12
   - type: form_section
-    content: |
+    content: >
       ## Entre em contato
 
-      Quer saber mais como a psicoterapia pode te ajudar?
+
+      Ficou com alguma dúvida? Quer saber mais sobre como a psicoterapia pode te
+      ajudar?
     content_align: left
     form_position: right
     form_width: fifty
