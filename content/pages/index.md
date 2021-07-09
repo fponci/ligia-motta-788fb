@@ -192,8 +192,8 @@ sections:
 seo:
   title: Ligia Motta | Psicoterapia Online
   description: >-
-    Pós graduada em Psicologia Analítica Junguiana, Agende sua sessão online em
-    psicoterapia. 
+    Pós graduada em Psicologia Analítica Junguiana, Psicoterapia de adolescentes
+    e adultos, situações de perdas e luto, Agende seu atendimento online comigo.
   extra:
     - name: 'og:type'
       value: website
