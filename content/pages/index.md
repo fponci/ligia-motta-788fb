@@ -21,7 +21,7 @@ sections:
     align: left
     padding_top: small
     padding_bottom: small
-    background_color: secondary
+    background_color: primary
     background_image: images/watercolor.png
     background_image_repeat: repeat
     background_image_size: contain
