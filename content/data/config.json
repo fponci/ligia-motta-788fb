@@ -15,7 +15,7 @@
             {
                 "label": "Entre em contato pelo Whatsapp",
                 "url": "https://api.whatsapp.com/send?phone=5516981904876",
-                "style": "link"
+                "style": "primary"
             }
         ],
         "has_secondary_nav": false
