@@ -202,7 +202,7 @@ seo:
       value: Ligia Motta | Psicóloga
       keyName: property
     - name: 'og:description'
-      value: The preview of the Personal theme
+      value: 'Olá, sou psicóloga clínica com pós graduação em Psicologia An'
       keyName: property
     - name: 'og:image'
       value: images/personal-preview.png
