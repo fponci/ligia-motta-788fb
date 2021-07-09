@@ -149,7 +149,7 @@ sections:
       - input_type: text
         name: Nome
         label: Nome
-        default_value: Como voc
+        default_value: Como você gostaria de ser chamado
         is_required: true
       - input_type: email
         name: email
