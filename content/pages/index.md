@@ -60,6 +60,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+            new_window: true
         image: images/feature-2.svg
         image_alt: Feature 2 illustration
         media_position: right
