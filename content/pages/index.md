@@ -169,7 +169,7 @@ sections:
         default_value: Seu endereço de e-mail
         is_required: true
       - input_type: tel
-        name: lorem-ipsum
+        name: Celular
         label: Celular/Whatsapp (opcional)
         default_value: Seu celular com DDD
         options: []
