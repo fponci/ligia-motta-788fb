@@ -166,7 +166,7 @@ sections:
       - input_type: textarea
         name: message
         label: Mensagem
-        default_value: Your message
+        default_value: 'Escreva aqui a sua '
       - input_type: checkbox
         name: consent
         label: >-
