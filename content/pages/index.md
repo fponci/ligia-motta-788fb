@@ -19,7 +19,7 @@ sections:
     media_position: right
     media_width: fourty
     align: left
-    padding_top: large
+    padding_top: medium
     padding_bottom: large
     background_color: secondary
     background_image: images/watercolor.png
