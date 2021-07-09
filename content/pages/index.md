@@ -180,13 +180,6 @@ sections:
         label: Mensagem
         default_value: Escreva aqui a sua mensagem
         is_required: true
-      - input_type: text
-        name: lorem-ipsum
-        label: lorem-ipsum
-        default_value: lorem-ipsum
-        options: []
-        is_required: false
-        type: form_field
     submit_label: Enviar
     align_vert: top
     padding_top: medium
