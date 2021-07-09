@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Muito obrigada!
     actions:
-      - label: Voltar a página principal
+      - label: Voltar para página principal
         url: /
         style: primary
         has_icon: true
