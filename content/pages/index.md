@@ -159,7 +159,7 @@ sections:
       - input_type: text
         name: lorem-ipsum
         label: Celular/Whatsapp
-        default_value: Seu celular com ddd
+        default_value: Seu celular com DDD
         options: []
         is_required: false
         type: form_field
