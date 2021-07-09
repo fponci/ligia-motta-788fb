@@ -54,7 +54,7 @@ sections:
           ecommerce platform.
         actions:
           - label: Entre em contato comigo
-            url: /about
+            url: 'https://api.whatsapp.com/send?phone=5516981904876'
             style: secondary
             has_icon: true
             icon: arrow-right
