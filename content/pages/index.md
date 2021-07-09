@@ -48,7 +48,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Conheça a Ligia
-        subtitle: O que come? Onde vive?
+        subtitle: Seja bem vindo
         content: >-
           Managing an online business is a full-time job. I will make sure your
           products look great, sound great, and sell more on your choice of
