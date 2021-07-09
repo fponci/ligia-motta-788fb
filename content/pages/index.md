@@ -48,7 +48,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Conheça a Ligia
-        subtitle: Seja bem vindo
+        subtitle: 'Seja bem vindo, é um prazer te receber aqui'
         content: >-
           Managing an online business is a full-time job. I will make sure your
           products look great, sound great, and sell more on your choice of
