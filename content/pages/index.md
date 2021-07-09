@@ -48,7 +48,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Conheça a Ligia
-        subtitle: 'Seja bem-vindo, é um prazer te receber aqui'
+        subtitle: 'Seja bem-vinda(o), é um prazer te receber aqui'
         content: |+
           Estou aqui para acolher, escutar.
 
