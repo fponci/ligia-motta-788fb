@@ -168,7 +168,7 @@ sections:
         label: Mensagem
         default_value: Escreva aqui a sua mensagem
         is_required: true
-    submit_label: Send Message
+    submit_label: Enviar
     align_vert: top
     padding_top: medium
     padding_bottom: medium
