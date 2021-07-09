@@ -142,8 +142,14 @@ sections:
       ## Entre em contato
 
 
-      Ficou com alguma dúvida? Quer saber mais sobre como a psicoterapia pode te
-      ajudar?
+      Ficou com alguma dúvida? 
+
+
+      Quer saber mais sobre como a psicoterapia pode te ajudar?
+
+
+      Me envie um e-mail preenchendo o formulário ou clique aqui embaixo para me
+      enviar um Whatsapp
     content_align: left
     form_position: right
     form_width: fifty
