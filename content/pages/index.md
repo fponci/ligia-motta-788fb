@@ -70,7 +70,7 @@ sections:
           sure the right information is communicated throughout your
           documentation, pamphlets, manuals and technical documents.
         actions:
-          - label: See Past Work
+          - label: Entre em contato comigo
             url: /faq
             style: primary
             has_icon: true
