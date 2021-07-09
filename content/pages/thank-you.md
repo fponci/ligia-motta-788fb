@@ -2,7 +2,7 @@
 title: Thank You
 sections:
   - type: hero_section
-    title: Obrigada!
+    title: Muito obrigada!
     actions:
       - label: Back to homepage
         url: /
