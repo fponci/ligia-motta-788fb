@@ -49,10 +49,11 @@ sections:
         media_width: sixty
       - title: Conheça a Ligia
         subtitle: 'Seja bem-vindo, é um prazer te receber aqui'
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: |+
+          Estou aqui para acolher, escutar.
+
+          Me formei lablalla
+
         actions:
           - label: Entre em contato comigo
             url: 'https://api.whatsapp.com/send?phone=5516981904876'
