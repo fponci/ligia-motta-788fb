@@ -27,7 +27,7 @@ sections:
     background_image_opacity: 8
     has_border: false
   - section_id: features
-    title: lorem-ipsum
+    title: Sua terapia começa aqui
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
