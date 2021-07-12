@@ -53,7 +53,7 @@ sections:
             icon: arrow-right
             icon_position: right
             new_window: true
-        image: images/feature-2.svg
+        image: /images/IMG_6697.jpg
         image_alt: Feature 2 illustration
         media_position: right
         media_width: thirty-three
