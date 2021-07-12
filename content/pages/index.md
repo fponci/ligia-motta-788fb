@@ -109,16 +109,6 @@ sections:
         type: action
     grid_items:
       - title_align: left
-        content: >
-          *   Escolha um lugar tranquilo e confortável que você se sinta à
-          vontade
-
-
-          *   Se quiser prepara um chá, um café ou deixe uma garrafa de água ao
-          lado
-
-
-          *   ...
         content_align: left
         actions: []
         actions_align: left
