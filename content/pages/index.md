@@ -49,7 +49,16 @@ sections:
         image: /images/7639ee7d-fe1e-4480-8219-de3f010093bd.jpg
       - title: Psicoterapia
         content: "A psicoterapia é um espaço seu, seguro, livre de julgamentos e valores, com o sigilo preservado. Ela pode ajudar você a diminuir o seu sofrimento, a lidar melhor com as suas emoções, sentimentos e problemas.\_\n\nAs sessões têm o intuito de oferecer um novo olhar sobre si mesmo, promovendo autoconhecimento e melhorando a qualidade de vida.\n\nO processo psicoterapêutico não é linear,\_há constantes evoluções e mudanças. Cada um passa por ele de uma forma, é importante respeitar o seu próprio tempo\n"
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
         image_alt: lorem-ipsum
         media_position: right
         media_width: fourty
