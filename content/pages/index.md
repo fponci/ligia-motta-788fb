@@ -56,7 +56,7 @@ sections:
         align: left
         type: feature
         image: /images/IMG_6697.jpg
-      - title: lorem-ipsum
+      - title: Psicoterapia On-line
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
