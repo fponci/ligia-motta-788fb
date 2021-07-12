@@ -48,7 +48,6 @@ sections:
         type: feature
         image: /images/7639ee7d-fe1e-4480-8219-de3f010093bd.jpg
       - title: Psicoterapia
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
