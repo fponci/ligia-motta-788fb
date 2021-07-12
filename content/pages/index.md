@@ -43,7 +43,7 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
-      - title: Conheça a Ligia
+      - title: A Psicoterapia
         subtitle: 'Seja bem-vinda(o), é um prazer te receber aqui'
         content: |+
           Estou aqui para acolher, escutar.
