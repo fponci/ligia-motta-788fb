@@ -27,6 +27,11 @@ sections:
       Trabalho de maneira conjunta com o paciente, compreendendo suas vivências,
       experiências e subjetividade, promovendo o autodesenvolvimento e
       autoconhecimento.
+    subtitle: >-
+      Olá, sou psicóloga clínica com pós-graduação em Psicologia Analítica.
+      Trabalho de maneira conjunta com o paciente, compreendendo suas vivências,
+      experiências e subjetividade, promovendo o autodesenvolvimento e
+      autoconhecimento.
   - section_id: features
     title: Sua terapia começa aqui
     features:
