@@ -32,7 +32,7 @@ sections:
       - title: Conheça a Ligia
         content: "Olá, sou a Ligia. Estou muito feliz que você está aqui. Sou psicóloga clínica com pós-graduação em Psicologia Analítica, também conhecida como Psicologia Junguiana.\n\nO meu objetivo é acolher e orientar você, por meio de uma escuta empática e qualificada, ajudando a compreender suas possibilidades e escolhas, assim como reconhecer e valorizar os seus pontos positivos e conviver melhor com os negativos, tanto no âmbito pessoal quanto profissional.\_\n\nNa psicoterapia podemos trabalhar temas como: ansiedade, depressão, autoestima, medos, inseguranças, situações de perdas e luto, entre outros. Trabalho junto com você compreendendo suas vivências, experiências e subjetividade, promovendo o autodesenvolvimento e autoconhecimento. Estou aqui para ajudar você a dar o primeiro passo. Vamos trabalhar juntos?\_\n"
         actions:
-          - label: lorem-ipsum
+          - label: Entre em contato comigo
             url: '#'
             style: link
             has_icon: false
