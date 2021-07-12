@@ -69,7 +69,7 @@ sections:
             new_window: true
         image: images/feature-3.svg
         image_alt: Feature 3 illustration
-        media_position: right
+        media_position: left
         media_width: fourty
     feature_padding_vert: large
     align: center
