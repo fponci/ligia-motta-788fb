@@ -30,7 +30,6 @@ sections:
     title: Sua terapia começa aqui
     features:
       - title: Conheça a Ligia
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
