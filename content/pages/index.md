@@ -97,7 +97,7 @@ sections:
     type: features_section
   - section_id: passo a passo
     title: Instagram
-    subtitle: Entenda um pouco melhor a forma que eu trabalho
+    subtitle: Acompanhe mais conte
     actions: []
     grid_items:
       - title_align: left
