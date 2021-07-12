@@ -187,7 +187,6 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - section_id: Instagram
-    subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
     enable_cards: false
