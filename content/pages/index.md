@@ -58,7 +58,6 @@ sections:
         media_position: left
         media_width: sixty
       - title: Psicoterapia On-line
-        subtitle: Entenda um pouco mais como funciona
         content: >-
           I will dive into the ins and outs of your product or service and make
           sure the right information is communicated throughout your
