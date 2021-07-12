@@ -125,7 +125,7 @@ sections:
     background_image_opacity: 12
   - section_id: passo a passo
     title: Como funciona a terapia?
-    subtitle: lorem-ipsum
+    subtitle: Entenda um pouco melhor a forma que eu trabalho
     actions: []
     grid_items: []
     grid_cols: three
