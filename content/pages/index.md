@@ -101,17 +101,10 @@ sections:
     actions: []
     grid_items:
       - title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          O processo psicoterapêutico não é linear, há constantes evoluções e
+          mudanças. Cada pessoa passa por ele de uma forma, respeite o seu
+          percurso. Você já viveu alguma dessas situações?
         content_align: left
         actions: []
         actions_align: left
