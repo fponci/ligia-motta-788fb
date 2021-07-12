@@ -187,7 +187,16 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - section_id: Instagram
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     blog_feed_cols: three
     enable_cards: false
     show_recent: false
