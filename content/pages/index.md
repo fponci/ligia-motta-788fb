@@ -189,7 +189,7 @@ sections:
   - section_id: Instagram
     actions:
       - label: Instagram
-        url: '#'
+        url: 'https://instagram.com/psi.ligiamotta'
         style: link
         has_icon: false
         icon: arrow-left
