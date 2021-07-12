@@ -61,7 +61,6 @@ sections:
         image_alt: Feature 2 illustration
         media_position: left
         media_width: sixty
-        subtitle: 'Seja bem-vinda(o), é um prazer te receber aqui'
       - title: Psicoterapia
         subtitle: Entenda um pouco mais como funciona
         content: >-
