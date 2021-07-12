@@ -28,7 +28,6 @@ sections:
     has_border: false
   - section_id: features
     title: lorem-ipsum
-    subtitle: lorem-ipsum
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
