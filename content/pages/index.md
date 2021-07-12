@@ -118,11 +118,7 @@ sections:
           lado
 
 
-          *   Cheque sua conexão com a internet
-
-
-          *   Você pode fazer a sua sessão de terapia pelo tablet, computador ou
-          celular. O importante é estar com a câmera e microfone ligados
+          *   ...
         content_align: left
         actions: []
         actions_align: left
