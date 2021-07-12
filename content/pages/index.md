@@ -26,7 +26,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
     has_border: false
-  - section_id: lorem-ipsum
+  - section_id: features
     title: lorem-ipsum
     subtitle: lorem-ipsum
     features:
