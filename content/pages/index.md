@@ -57,7 +57,6 @@ sections:
         type: feature
         image: /images/IMG_6697.jpg
       - title: Psicoterapia On-line
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
