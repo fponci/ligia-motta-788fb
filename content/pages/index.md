@@ -96,7 +96,7 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - section_id: passo a passo
-    title: Como funciona a terapia?
+    title: Instagram
     subtitle: Entenda um pouco melhor a forma que eu trabalho
     actions: []
     grid_items:
