@@ -96,7 +96,7 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - section_id: passo a passo
-    title: Conhea meu Instagram
+    title: Conheça meu Instagram
     subtitle: Instagram
     actions:
       - label: Instagram
