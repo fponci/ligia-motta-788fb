@@ -39,7 +39,7 @@ sections:
             icon: arrow-right
             icon_position: right
             new_window: true
-        image: images/feature-1.svg
+        image: /images/7639ee7d-fe1e-4480-8219-de3f010093bd.jpg
         image_alt: Feature 1 illustration
         media_position: right
         media_width: thirty-three
