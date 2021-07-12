@@ -70,7 +70,7 @@ sections:
         image: images/feature-3.svg
         image_alt: Feature 3 illustration
         media_position: right
-        media_width: sixty
+        media_width: thirty-three
     feature_padding_vert: large
     align: center
     background_color: none
