@@ -14,6 +14,7 @@ sections:
         style: primary
         has_icon: true
         new_window: true
+        icon: arrow-right
     image: /images/e2bcdaad-0482-4cc6-8ad5-54896f252103.jpg
     image_alt: A smiling woman
     media_position: right
