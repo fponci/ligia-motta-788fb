@@ -99,7 +99,7 @@ sections:
     title: Acompanhe meus conteúdos
     subtitle: Instagram
     actions:
-      - label: Se
+      - label: Instagram
         url: '#'
         style: link
         has_icon: false
