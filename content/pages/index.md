@@ -22,11 +22,6 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
     has_border: false
-    content: >
-      Olá, sou psicóloga clínica com pós-graduação em Psicologia Analítica.
-      Trabalho de maneira conjunta com o paciente, compreendendo suas vivências,
-      experiências e subjetividade, promovendo o autodesenvolvimento e
-      autoconhecimento.
     subtitle: >-
       Olá, sou psicóloga clínica com pós-graduação em Psicologia Analítica.
       Trabalho de maneira conjunta com o paciente, compreendendo suas vivências,
