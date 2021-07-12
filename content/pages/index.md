@@ -102,9 +102,19 @@ sections:
     grid_items:
       - title_align: left
         content: >
-          O processo psicoterapêutico não é linear, há constantes evoluções e
-          mudanças. Cada pessoa passa por ele de uma forma, respeite o seu
-          percurso. Você já viveu alguma dessas situações?
+          *   Escolha um lugar tranquilo e confortável que você se sinta à
+          vontade
+
+
+          *   Se quiser prepara um chá, um café ou deixe uma garrafa de água ao
+          lado
+
+
+          *   Cheque sua conexão com a internet
+
+
+          *   Você pode fazer a sua sessão de terapia pelo tablet, computador ou
+          celular. O importante é estar com a câmera e microfone ligados
         content_align: left
         actions: []
         actions_align: left
