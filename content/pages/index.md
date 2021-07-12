@@ -160,7 +160,7 @@ sections:
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
-    enable_cards: true
+    enable_cards: false
     align: center
     padding_top: medium
     padding_bottom: medium
