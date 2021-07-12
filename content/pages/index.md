@@ -100,8 +100,7 @@ sections:
     subtitle: Entenda um pouco melhor a forma que eu trabalho
     actions: []
     grid_items:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
