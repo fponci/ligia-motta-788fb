@@ -140,6 +140,9 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: >-
+          /images/Frase motivacional e de inspiração para post em redes
+          sociais.-3.jpg
       - title_align: left
         content: "Em um dia você está bem, produtivo e cheio de energia, em outro dia você está cansado, esgotado, sem forças para fazer as atividades diárias. Às vezes essas oscilações acontecem durante o mesmo dia.\_\nO desgaste emocional dessa fase que estamos vivendo há mais de um ano é muito intenso, somado com as incertezas em relação ao futuro é comum apresentar esses “altos e baixos”. Não sei se é possível acabar com as oscilações de humor, ansiedades, irritabilidade que sentimos nesse momento, mas é possível conviver melhor com tudo isso. Se quiser saber como a psicoterapia pode te ajudar nessa fase, manda um direct ou entra em contato pelo link na bio.\n"
         content_align: left
