@@ -61,7 +61,7 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         media_position: left
-        media_width: thirty-three
+        media_width: fourty
         align: left
         type: feature
         image: /images/IMG_6698.jpg
