@@ -135,7 +135,6 @@ sections:
           /images/Frase motivacional e de inspiração para post em redes
           sociais.-3.jpg
       - title_align: left
-        content: "Em um dia você está bem, produtivo e cheio de energia, em outro dia você está cansado, esgotado, sem forças para fazer as atividades diárias. Às vezes essas oscilações acontecem durante o mesmo dia.\_\n"
         content_align: left
         actions: []
         actions_align: left
