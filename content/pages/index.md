@@ -67,7 +67,7 @@ sections:
             icon: arrow-right
             icon_position: right
             new_window: true
-        image: images/feature-3.svg
+        image: /images/IMG_6698.jpg
         image_alt: Feature 3 illustration
         media_position: left
         media_width: fourty
