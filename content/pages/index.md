@@ -188,7 +188,7 @@ sections:
     type: grid_section
   - section_id: Instagram
     actions:
-      - label: lorem-ipsum
+      - label: Instagram
         url: '#'
         style: link
         has_icon: false
