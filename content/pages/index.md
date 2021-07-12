@@ -100,7 +100,7 @@ sections:
     subtitle: Instagram
     actions:
       - label: Instagram
-        url: 'https://instagram.com'
+        url: 'https://instagram.com/psi.ligiamotta'
         style: link
         has_icon: false
         icon: instagram
