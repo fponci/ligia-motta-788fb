@@ -124,7 +124,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 12
   - section_id: passo a passo
-    title: lorem-ipsum
+    title: Como funciona a terapia
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
