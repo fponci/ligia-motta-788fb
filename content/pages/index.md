@@ -100,7 +100,7 @@ sections:
     subtitle: Instagram
     actions:
       - label: Instagram
-        url: '#'
+        url: 'https://instagram.com'
         style: link
         has_icon: false
         icon: instagram
