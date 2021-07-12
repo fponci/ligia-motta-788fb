@@ -57,7 +57,7 @@ sections:
         image_alt: Feature 2 illustration
         media_position: left
         media_width: sixty
-      - title: Psicoterapia
+      - title: Psicoterapia On-line
         subtitle: Entenda um pouco mais como funciona
         content: >-
           I will dive into the ins and outs of your product or service and make
