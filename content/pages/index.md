@@ -72,7 +72,7 @@ sections:
             url: 'https://api.whatsapp.com/send?phone=5516981904876'
             style: primary
             has_icon: true
-            icon: instagram
+            icon: arrow-right
             icon_position: right
             new_window: false
             no_follow: false
