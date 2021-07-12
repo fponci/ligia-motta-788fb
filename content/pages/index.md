@@ -125,6 +125,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: /images/088D2C4F-6324-4467-8D07-E301948E0A57.JPG
       - title_align: left
         content: >
           O processo psicoterapêutico não é linear, há constantes evoluções e
