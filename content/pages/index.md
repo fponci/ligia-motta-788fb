@@ -97,7 +97,7 @@ sections:
     type: features_section
   - section_id: passo a passo
     title: Instagram
-    subtitle: Acompanhe mais conte
+    subtitle: Acompanhe mais conteúdos no meu
     actions: []
     grid_items:
       - title_align: left
