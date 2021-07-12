@@ -125,7 +125,7 @@ sections:
     background_image_opacity: 12
   - section_id: passo a passo
     title: Como funciona a terapia?
-    subtitle: Entenda como
+    subtitle: Entenda um pouco melhor a forma que eu trabalho
     features: []
     feature_padding_vert: medium
     align: center
