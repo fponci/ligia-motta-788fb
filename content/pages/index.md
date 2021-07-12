@@ -186,37 +186,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - section_id: Instagram
-    actions:
-      - label: Instagram
-        url: 'https://instagram.com/psi.ligiamotta'
-        style: primary
-        has_icon: true
-        icon: instagram
-        icon_position: right
-        new_window: true
-        no_follow: false
-        type: action
-    blog_feed_cols: three
-    enable_cards: true
-    show_recent: false
-    recent_count: 0
-    show_date: true
-    show_categories: false
-    show_author: false
-    show_excerpt: false
-    show_image: true
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: blog_feed_section
-    title: Me acompanhe também no Instagram
   - type: form_section
     content: >
       ## Entre em contato
