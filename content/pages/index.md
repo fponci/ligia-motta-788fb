@@ -29,7 +29,7 @@ sections:
   - type: features_section
     title: Sua terapia começa aqui
     features:
-      - title: Conhec
+      - title: Conheça a Ligia
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
