@@ -26,54 +26,6 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
     has_border: false
-  - type: features_section
-    title: Sua terapia começa aqui
-    features:
-      - title: Conheça a Ligia
-        content: "Olá, sou a Ligia. Estou muito feliz que você está aqui. Sou psicóloga clínica com pós-graduação em Psicologia Analítica, também conhecida como Psicologia Junguiana.\n\nO meu objetivo é acolher e orientar você, por meio de uma escuta empática e qualificada, ajudando a compreender suas possibilidades e escolhas, assim como reconhecer e valorizar os seus pontos positivos e conviver melhor com os negativos, tanto no âmbito pessoal quanto profissional.\_\n\nNa psicoterapia podemos trabalhar temas como: ansiedade, depressão, autoestima, medos, inseguranças, situações de perdas e luto, entre outros. Trabalho junto com você compreendendo suas vivências, experiências e subjetividade, promovendo o autodesenvolvimento e autoconhecimento. Estou aqui para ajudar você a dar o primeiro passo. Vamos trabalhar juntos?\_\n"
-        actions:
-          - label: Entre em contato comigo
-            url: 'https://api.whatsapp.com/send?phone=5516981904876'
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: true
-        image: /images/7639ee7d-fe1e-4480-8219-de3f010093bd.jpg
-        image_alt: Feature 1 illustration
-        media_position: left
-        media_width: thirty-three
-      - title: A Psicoterapia
-        content: "A psicoterapia é um espaço seu, seguro, livre de julgamentos e valores, com o sigilo preservado. Ela pode ajudar você a diminuir o seu sofrimento, a lidar melhor com as suas emoções, sentimentos e problemas.\_\n\nAs sessões têm o intuito de oferecer um novo olhar sobre si mesmo, promovendo autoconhecimento e melhorando a qualidade de vida.\n\nO processo psicoterapêutico não é linear,\_há constantes evoluções e mudanças. Cada um passa por ele de uma forma, é importante respeitar o seu próprio tempo\n"
-        actions:
-          - label: Entre em contato comigo
-            url: 'https://api.whatsapp.com/send?phone=5516981904876'
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: true
-        image: /images/IMG_6697.jpg
-        image_alt: Feature 2 illustration
-        media_position: right
-        media_width: thirty-three
-      - title: Psicoterapia On-line
-        content: "Vantagens da psicoterapia online\n\n*   Você tem a possibilidade de escolher um psicólogo de qualquer lugar do Brasil\n\n*   Você consegue realizar terapia no atual contexto que estamos vivendo, sem a necessidade de se expor\n\n*   Otimização do tempo: você não precisa se deslocar até o consultório\n\n*   Se você precisar viajar é possível manter a sessão\n\n*   Se você mora em outro país é possível realizar um atendimento em sua língua materna e por um psicólogo que conheça a sua cultura\n\n*   A psicoterapia online facilita o acesso para quem tem restrições de locomoção\_\n\nO atendimento online é regulamentado pelo Conselho Federal de Psicologia (CFP) desde 2018.\_\n"
-        actions:
-          - label: Entre em contato comigo
-            url: 'https://api.whatsapp.com/send?phone=5516981904876'
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: true
-        image: /images/IMG_6698.jpg
-        image_alt: Feature 3 illustration
-        media_position: left
-        media_width: fourty
-    feature_padding_vert: large
-    align: center
-    background_color: none
   - type: grid_section
     title: Testimonials
     subtitle: What My Clients Say
