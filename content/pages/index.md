@@ -56,7 +56,7 @@ sections:
         image: images/feature-2.svg
         image_alt: Feature 2 illustration
         media_position: left
-        media_width: sixty
+        media_width: thirty-three
       - title: Psicoterapia On-line
         content: "Vantagens da psicoterapia online\n\n*   Você tem a possibilidade de escolher um psicólogo de qualquer lugar do Brasil\n\n*   Você consegue realizar terapia no atual contexto que estamos vivendo, sem a necessidade de se expor\n\n*   Otimização do tempo: você não precisa se deslocar até o consultório\n\n*   Se você precisar viajar é possível manter a sessão\n\n*   Se você mora em outro país é possível realizar um atendimento em sua língua materna e por um psicólogo que conheça a sua cultura\n\n*   A psicoterapia online facilita o acesso para quem tem restrições de locomoção\_\n\nO atendimento online é regulamentado pelo Conselho Federal de Psicologia (CFP) desde 2018.\_\n"
         actions:
