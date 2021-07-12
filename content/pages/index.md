@@ -97,7 +97,6 @@ sections:
     type: features_section
   - section_id: passo a passo
     title: Conheça meu Instagram
-    subtitle: Instagram
     actions:
       - label: Instagram
         url: 'https://instagram.com/psi.ligiamotta'
