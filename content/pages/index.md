@@ -30,7 +30,6 @@ sections:
     title: Sua terapia começa aqui
     features:
       - title: Conheça a Ligia
-        subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
