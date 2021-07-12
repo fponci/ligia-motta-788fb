@@ -69,7 +69,7 @@ sections:
         content: "Vantagens da psicoterapia online\n\n*   Você tem a possibilidade de escolher um psicólogo de qualquer lugar do Brasil\n\n*   Você consegue realizar terapia no atual contexto que estamos vivendo, sem a necessidade de se expor\n\n*   Otimização do tempo: você não precisa se deslocar até o consultório\n\n*   Se você precisar viajar é possível manter a sessão\n\n*   Se você mora em outro país é possível realizar um atendimento em sua língua materna e por um psicólogo que conheça a sua cultura\n\n*   A psicoterapia online facilita o acesso para quem tem restrições de locomoção\n\nO atendimento online é regulamentado pelo Conselho Federal de Psicologia (CFP) desde 2018.\_\n"
         actions:
           - label: Entre em contato comigo
-            url: '#'
+            url: 'https://api.whatsapp.com/send?phone=5516981904876'
             style: link
             has_icon: false
             icon: arrow-left
