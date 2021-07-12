@@ -96,7 +96,7 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - section_id: passo a passo
-    title: Instagram
+    title: Acompanhe meus conte
     subtitle: Instagram
     actions: []
     grid_items:
