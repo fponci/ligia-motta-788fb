@@ -52,7 +52,7 @@ sections:
         actions:
           - label: Entre em contato comigo
             url: 'https://api.whatsapp.com/send?phone=5516981904876'
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
