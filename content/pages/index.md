@@ -99,7 +99,7 @@ sections:
     title: Acompanhe meus conteúdos
     subtitle: Instagram
     actions:
-      - label: lorem-ipsum
+      - label: Seguir no in
         url: '#'
         style: link
         has_icon: false
