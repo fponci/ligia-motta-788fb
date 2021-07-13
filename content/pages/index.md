@@ -239,7 +239,8 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Personal theme
     - name: 'twitter:image'
-      value: images/personal-preview.png
+      value: >-
+        /_static/app-assets/images/Captura%20de%20Tela%202021-07-13%20%C3%A0s%2015.45.57.png
       relativeUrl: true
     - name: 'og:image'
       value: >-
