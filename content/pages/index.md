@@ -241,5 +241,10 @@ seo:
     - name: 'twitter:image'
       value: images/personal-preview.png
       relativeUrl: true
+    - name: 'og:image'
+      value: >-
+        /_static/app-assets/images/Captura%20de%20Tela%202021-07-13%20%C3%A0s%2015.45.57.png
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
