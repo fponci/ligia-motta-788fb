@@ -161,18 +161,16 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - type: form_section
-    content: >
+    content: |
       ## Entre em contato
-
 
       Ficou com alguma dúvida?
 
-
       Quer saber mais sobre como a psicoterapia pode te ajudar?
 
+      Envie um e-mail preenchendo o formulário ou 
 
-      Envie um e-mail preenchendo o formulário ou [me chame no
-      Whatsapp](https://api.whatsapp.com/send?phone=5516981904876)
+      [me chame no Whatsapp](https://api.whatsapp.com/send?phone=5516981904876)
     content_align: left
     form_position: right
     form_width: fifty
