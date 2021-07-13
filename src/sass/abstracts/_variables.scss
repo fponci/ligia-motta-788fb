@@ -4,7 +4,7 @@
 $theme-styles: (
 	classic: (
 		fonts: (
-			serif: ('Azo Sans Light', 'Lucida Bright', 'Lucidabright', 'Lucida Serif', Lucida, Georgia, serif),
+			serif: ('Lora', 'Lucida Bright', 'Lucidabright', 'Lucida Serif', Lucida, Georgia, serif),
 			sans-serif: ('Open Sans', Lato, sans-serif)
 		),
 		colors: (
@@ -15,7 +15,7 @@ $theme-styles: (
 	),
 	bold: (
 		fonts: (
-			serif: ('Azo Sans Light', 'Rockwell', Georgia, Times, 'Times New Roman', serif),
+			serif: ('Arvo', 'Rockwell', Georgia, Times, 'Times New Roman', serif),
 			sans-serif: ('Poppins', 'Helvetica Neue', Helvetica, 'Roboto', sans-serif)
 		),
 		colors: (
@@ -26,7 +26,7 @@ $theme-styles: (
 	),
 	minimal: (
 		fonts: (
-			serif: ('Azo Sans Light', Georgia, Times, 'Times New Roman', serif),
+			serif: ('IBM Plex Serif', Georgia, Times, 'Times New Roman', serif),
 			sans-serif: ('IBM Plex Sans','Helvetica Neue', Helvetica, 'Roboto', sans-serif)
 		),
 		colors: (
