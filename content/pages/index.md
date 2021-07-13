@@ -159,17 +159,7 @@ sections:
       - title_align: left
         content: >
           ##
-          ![](/\_static/app-assets/images/Lembrete%20do%20dia%20Esteja%20sempre%20em%20evolu%C3%A7%C3%A3o.-5.png)Lorem
-          ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
+          ![](/\_static/app-assets/images/Lembrete%20do%20dia%20Esteja%20sempre%20em%20evolu%C3%A7%C3%A3o.-5.png)
         content_align: left
         actions: []
         actions_align: left
