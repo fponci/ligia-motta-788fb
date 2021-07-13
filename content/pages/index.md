@@ -141,7 +141,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: /images/088D2C4F-6324-4467-8D07-E301948E0A57.JPG
+        image: /images/Lembrete do dia Esteja sempre em evolução.-5.png
       - title_align: left
         content_align: left
         actions: []
