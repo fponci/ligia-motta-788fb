@@ -156,7 +156,7 @@ sections:
         image: /images/good-robin.JPG
       - title_align: left
         content: |
-          ## ![](/\_static/app-assets/images/modern-spider.jpg)
+          ##
         content_align: left
         actions: []
         actions_align: left
