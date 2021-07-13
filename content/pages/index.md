@@ -100,7 +100,7 @@ sections:
     actions:
       - label: Instagram
         url: 'https://instagram.com/psi.ligiamotta'
-        style: secondary
+        style: primary
         has_icon: true
         icon: instagram
         icon_position: right
