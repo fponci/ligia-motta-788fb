@@ -155,9 +155,8 @@ sections:
         type: grid_item
         image: /images/good-robin.JPG
       - title_align: left
-        content: >
-          ##
-          ![](/\_static/app-assets/images/Lembrete%20do%20dia%20Esteja%20sempre%20em%20evolu%C3%A7%C3%A3o.-5.png)
+        content: |
+          ## ![](/\_static/app-assets/images/modern-spider.jpg)
         content_align: left
         actions: []
         actions_align: left
