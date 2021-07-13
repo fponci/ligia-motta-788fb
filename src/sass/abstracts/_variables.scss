@@ -26,10 +26,10 @@ $theme-styles: (
 	),
 	minimal: (
 		fonts: (
-			serif: ('Azo Sans Light', serif),
+			serif: ('IBM Plex Serif', Georgia, Times, 'Times New Roman', serif),
 			sans-serif: ('IBM Plex Sans','Helvetica Neue', Helvetica, 'Roboto', sans-serif)
 		),
-		colors: '
+		colors: (
 			blue:   #0084ff,
 			green:  #00cc88,
 			red:    #ff3366
