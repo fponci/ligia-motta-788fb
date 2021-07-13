@@ -151,7 +151,7 @@ sections:
     grid_gap_horiz: small
     enable_cards: false
     align: center
-    padding_top: medium
+    padding_top: small
     padding_bottom: small
     has_border: false
     background_color: primary
