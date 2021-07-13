@@ -133,8 +133,6 @@ sections:
         type: grid_item
         image: /images/violet-cabbage.jpg
       - title_align: left
-        content: |
-          ##
         content_align: left
         actions: []
         actions_align: left
