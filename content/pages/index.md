@@ -153,7 +153,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: /images/good-robin.JPG
+        image: /images/violet-cabbage.jpg
       - title_align: left
         content: |
           ##
