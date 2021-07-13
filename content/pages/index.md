@@ -153,9 +153,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: >-
-          /images/Frase motivacional e de inspiração para post em redes
-          sociais.-3.jpg
+        image: /images/good-robin.JPG
       - title_align: left
         content: >
           ##
