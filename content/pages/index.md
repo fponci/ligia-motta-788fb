@@ -237,7 +237,10 @@ seo:
     - name: 'twitter:title'
       value: Ligia Motta | Psicóloga
     - name: 'twitter:description'
-      value: The preview of the Personal theme
+      value: >-
+        Pós graduada em Psicologia Analítica Junguiana, Psicoterapia de
+        adolescentes e adultos, situações de perdas e luto, Agende seu
+        atendimento online comigo.
     - name: 'twitter:image'
       value: >-
         /_static/app-assets/images/Captura%20de%20Tela%202021-07-13%20%C3%A0s%2015.45.57.png
