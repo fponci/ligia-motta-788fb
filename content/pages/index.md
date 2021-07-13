@@ -157,7 +157,6 @@ sections:
           /images/Frase motivacional e de inspiração para post em redes
           sociais.-3.jpg
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         title_align: left
         content: >
           ##
