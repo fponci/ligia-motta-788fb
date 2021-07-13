@@ -156,8 +156,7 @@ sections:
         image: >-
           /images/Frase motivacional e de inspiração para post em redes
           sociais.-3.jpg
-      - title: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >
           ##
           ![](/\_static/app-assets/images/Lembrete%20do%20dia%20Esteja%20sempre%20em%20evolu%C3%A7%C3%A3o.-5.png)Lorem
