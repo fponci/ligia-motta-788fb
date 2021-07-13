@@ -232,10 +232,6 @@ seo:
         adolescentes e adultos, situações de perdas e luto, Agende seu
         atendimento online comigo.
       keyName: property
-    - name: 'og:image'
-      value: images/personal-preview.png
-      keyName: property
-      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
