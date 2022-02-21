@@ -83,7 +83,7 @@ sections:
         media_width: fourty
         align: left
         type: feature
-        image: /images/IMG_6698.jpg
+        image: /images/IMG_6698-2.jpg
     feature_padding_vert: medium
     align: center
     padding_top: medium
