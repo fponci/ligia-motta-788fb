@@ -11,7 +11,7 @@ sections:
         new_window: true
         icon: arrow-right
     image: /images/e2bcdaad-0482-4cc6-8ad5-54896f252103-2-2-ec31f8e0.jpg
-    image_alt: A smiling woman
+    image_alt: Psicóloga Ligia Motta
     media_position: right
     media_width: fourty
     align: left
