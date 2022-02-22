@@ -131,7 +131,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: /images/violet-cabbage.jpg
+        image: /images/Captura de Tela 2022-02-22 às 00.20.27.jpg
       - title_align: left
         content_align: left
         actions: []
