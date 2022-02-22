@@ -143,7 +143,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: /images/ultra-goose.JPG
+        image: /images/Captura de Tela 2022-02-22 às 00.22.48.jpg
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
