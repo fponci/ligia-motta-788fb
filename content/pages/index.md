@@ -78,7 +78,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-        image_alt: lorem-ipsum
+        image_alt: Ligia Motta Psicologia Online
         media_position: left
         media_width: fourty
         align: left
