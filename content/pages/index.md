@@ -42,7 +42,7 @@ sections:
             new_window: true
             no_follow: false
             type: action
-        image_alt: lorem-ipsum
+        image_alt: Ligia Motta Psicologia
         media_position: left
         media_width: thirty-three
         align: left
