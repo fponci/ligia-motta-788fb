@@ -10,7 +10,7 @@ sections:
         has_icon: true
         new_window: true
         icon: arrow-right
-    image: /images/e2bcdaad-0482-4cc6-8ad5-54896f252103.jpg
+    image: /images/e2bcdaad-0482-4cc6-8ad5-54896f252103-2-2-ec31f8e0.jpg
     image_alt: A smiling woman
     media_position: right
     media_width: fourty
@@ -47,7 +47,7 @@ sections:
         media_width: thirty-three
         align: left
         type: feature
-        image: /images/7639ee7d-fe1e-4480-8219-de3f010093bd.jpg
+        image: /images/e2bcdaad-0482-4cc6-8ad5-54896f252103-2-2.jpg
       - title: Psicoterapia
         content: "A psicoterapia é um espaço seu, seguro, livre de julgamentos e valores, com o sigilo preservado. Ela pode ajudar você a diminuir o seu sofrimento, a lidar melhor com as suas emoções, sentimentos e problemas.\_\n\nAs sessões têm o intuito de oferecer um novo olhar sobre si mesmo, promovendo autoconhecimento e melhorando a qualidade de vida.\n\nO processo psicoterapêutico não é linear,\_há constantes evoluções e mudanças. Cada um passa por ele de uma forma, é importante respeitar o seu próprio tempo\n"
         actions:
@@ -65,7 +65,7 @@ sections:
         media_width: fourty
         align: left
         type: feature
-        image: /images/IMG_6697.jpg
+        image: /images/consultorio-2 2.jpg
       - title: Psicoterapia On-line
         content: "Vantagens da psicoterapia online\n\n*   Você tem a possibilidade de escolher um psicólogo de qualquer lugar do Brasil\n\n*   Você consegue realizar terapia no atual contexto que estamos vivendo, sem a necessidade de se expor\n\n*   Otimização do tempo: você não precisa se deslocar até o consultório\n\n*   Se você precisar viajar é possível manter a sessão\n\n*   Se você mora em outro país é possível realizar um atendimento em sua língua materna e por um psicólogo que conheça a sua cultura\n\n*   A psicoterapia online facilita o acesso para quem tem restrições de locomoção\n\nO atendimento online é regulamentado pelo Conselho Federal de Psicologia (CFP) desde 2018.\_\n"
         actions:
@@ -83,7 +83,7 @@ sections:
         media_width: fourty
         align: left
         type: feature
-        image: /images/IMG_6698.jpg
+        image: /images/IMG_6698-2.jpg
     feature_padding_vert: medium
     align: center
     padding_top: medium
@@ -131,7 +131,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: /images/violet-cabbage.jpg
+        image: /images/Captura de Tela 2022-02-22 às 00.20.27.jpg
       - title_align: left
         content_align: left
         actions: []
@@ -143,7 +143,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: /images/ultra-goose.JPG
+        image: /images/Captura de Tela 2022-02-22 às 00.22.48.jpg
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
