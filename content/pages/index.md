@@ -214,7 +214,7 @@ sections:
     background_image_opacity: 8
     section_id: Form
 seo:
-  title: Ligia Motta | Psicoterapia Online
+  title: Psicóloga Ligia Motta | Atendimento Particular
   description: >-
     Psicóloga clínica pós graduada. Psicoterapia: ansiedade, autoestima,
     autoconhecimento, luto, entre outros. Conheça mais e agende seu atendimento
